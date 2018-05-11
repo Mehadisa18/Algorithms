@@ -18,7 +18,7 @@ Cases to be covered :
 let us assume the elements are named after alphabets. An edge defines the connection between two nodes """
 from collections import defaultdict
 class graph:
-    def __init__(self):
+    def __init__(self):  
        print(self)
     def addEdges(self,list1):
         self.graphDict = defaultdict(list)

@@ -18,4 +18,4 @@ class Graph:
 
 edgelist =[(0,1),(0,2),(0,3),(3,4),(1,5),(2,6),(5,6),(6,7),(7,8)]
 print(edgelist)
-graph = Graph(edgelist)
+graph = Graph(edgelist) 
